@@ -70,4 +70,77 @@
   font-size: 14px;
   letter-spacing: 0.05em;
   line-height: 21px;
+}
+
+/*Seccion 3*/
+.sectionThree__container--tittle {
+  margin: 4rem;
+  font-family: "relawey ";
+  font-weight: 600;
+  font-size: 32px;
+}
+
+.seccionThree__container--partOne {
+  border-radius: 20px;
+  margin: 2rem;
+  display: flex;
+  flex-direction: column;
+  background: #FFFFFF;
+  box-shadow: 0px 28px 64px rgba(0, 0, 0, 0.12);
+}
+
+.seccionThree__container--img {
+  padding-top: 1rem;
+  margin: 2rem;
+}
+
+.seccionThree__container--paragraph {
+  color: grey;
+}
+
+.seccionThree__container--subtitle {
+  margin-left: 2rem;
+  margin-top: 1rem;
+  font-family: "relawey";
+  font-weight: 600;
+  font-size: 24px;
+}
+
+.seccionThree__container--partTwoLetter {
+  font-size: 16px;
+  margin-top: 2rem;
+  display: flex;
+  justify-content: space-around;
+  font-size: "raleway ";
+}
+
+.seccionThree__container--partThree {
+  display: flex;
+  align-items: center;
+}
+
+.seccionThree__container--partThreeBtn {
+  border-radius: 10px;
+  font-size: 14px;
+  padding: 10px 22px 10px 22px;
+  border: solid 1px black;
+  background-color: white;
+  margin-left: 2rem;
+}
+
+.seccionThree__container--partThreeicon {
+  height: 120px;
+  width: 120;
+  margin: 0.5rem 0rem 0rem 1rem;
+}
+
+.seccionThree__container--lastBtn {
+  margin-left: 8.6rem;
+  font-size: 16px;
+  background-color: black;
+  color: white;
+  border: none;
+  padding: 8px 32px 8px 32px;
+  font-family: " raleway";
+  font-weight: 400;
 }/*# sourceMappingURL=style.css.map */
